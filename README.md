@@ -1,4 +1,4 @@
-<h1 align="center">🙋‍♂️ Hi everyone, I'm Aliffiqri Agwar (SorrowInRain)</h1>
+<h1 align="center">🙋‍♂️ Hi everyone, I'm Aliffiqri Agwar</h1>
 <h3 align="center">A gamer, a developer and a game developer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sorrowinrain&label=Profile%20views&color=c47dde&style=flat-square" alt="sorrowinrain" /> </p>
