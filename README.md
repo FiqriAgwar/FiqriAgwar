@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sorrowinrain&label=Profile%20views&color=c47dde&style=flat-square" alt="sorrowinrain" /> </p>
 
-- 🔭 I’m currently working in [Shopee Indonesia](https://careers.shopee.co.id/)
+- 🔭 My past work is at Samsung Research Institute Indonesia and Shopee Indonesia
 
 - 🌱 I’m currently learning **Unreal Engine 5 and Cocos Creator**
 
-- 👨‍💻 My game portfolio are available at [sorrowinrain.itch.io](https://sorrowinrain.itch.io)
+- 👨‍💻 My game portfolio are available at [https://sorrowisme.itch.io/](https://sorrowisme.itch.io/)
 
 - 💬 Ask me about **React, DiscordJS and Unity**
 
